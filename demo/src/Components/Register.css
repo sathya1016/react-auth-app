@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.signupParentDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.signupForm {
+
+    padding: 100px;
+    border: 1px solid black;
+
+}
+
+.signupForm>div {
+    padding: 10px;
+
+}
+.signupForm input {
+    padding: 5px;
+}
+
+.signupRadioDiv {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.signupMaleDiv label{
+padding: 10px;
+}
+.signupFemaleDiv label{
+    padding: 10px;
+    }
+.signupH1Tag{
+   text-align: center;
+}
+
+.signupSubmitbutton button{
+    border-radius: 13px 13px 13px 13px;
+    padding: 10px;
+    background-color: deepskyblue;
+    border-color: white;
+    border: none;
+  
+}
+.signupSubmitbutton{
+    display: flex;
+    justify-content: center;
+  
+  
+}
