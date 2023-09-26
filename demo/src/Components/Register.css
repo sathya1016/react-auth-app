@@ -14,7 +14,7 @@
 .signupForm {
 
     padding: 100px;
-    border: 1px solid black;
+   
 
 }
 
@@ -45,7 +45,8 @@ padding: 10px;
 .signupSubmitbutton button{
     border-radius: 13px 13px 13px 13px;
     padding: 10px;
-    background-color: deepskyblue;
+    background-color: rgba(0, 255, 255, 0.616);
+
     border-color: white;
     border: none;
   
@@ -54,5 +55,9 @@ padding: 10px;
     display: flex;
     justify-content: center;
   
+  
+}
+.signupSubmitbutton a{
+   text-decoration: none;
   
 }

@@ -7,8 +7,9 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
+      <NavBar/>
         <Routes>
-    <NavBar/>
+    
           <Route element={<HomePage/>} path="/"/>
           <Route element={<RegisterPage/>} path="/Register" />
           <Route element={<LoginPage/>} path="/login" />

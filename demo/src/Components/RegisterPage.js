@@ -16,17 +16,7 @@ const Signup = () => {
 
   return (
     <div className='signupParentDiv'>
-      <nav className='signup'>
-      <li>
-        <Link to="/register">Register</Link>
-      </li>
-      <li>
-        <Link to="/login ">Login</Link>
-      </li>
-    <li>
-      <Link to="/">About Us</Link>
-    </li>
-      </nav>
+     
       <form onSubmit={formSubmit} className='signupForm'>
         <h1 className='signupH1Tag'>Register</h1>
         <div className='signupTextfieldName'>
