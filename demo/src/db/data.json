@@ -47,6 +47,14 @@
       "number": "1234567890",
       "password": "poiuytrewq",
       "id": 6
+    },
+    {
+      "username": "kiran",
+      "email": "kiran@gmail.com",
+      "gender": "Male",
+      "number": "1234567890",
+      "password": "poiuytrewq",
+      "id": 6
     }
   ]
 }
