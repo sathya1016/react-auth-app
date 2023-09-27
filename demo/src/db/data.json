@@ -1,0 +1,52 @@
+{
+  "jwt": [
+    {
+      "username": "Sathya",
+      "email": "sathyanarayanameda0321@gmail.com",
+      "gender": "",
+      "number": "9876543210",
+      "password": "fdvdfbd",
+      "id": 1
+    },
+    {
+      "username": "Karthikvdd",
+      "email": "karthik@gmail.com",
+      "gender": "Male",
+      "number": "7032340439",
+      "password": "gdggdfssgfgs",
+      "id": 2
+    },
+    {
+      "username": "Subbu",
+      "email": "K.subramanyam349@gmail.com",
+      "gender": "Male",
+      "number": "9874323564",
+      "password": "vcxvsdvav",
+      "id": 3
+    },
+    {
+      "username": "Ganesh",
+      "email": "ganesha@gmail.com",
+      "gender": "Male",
+      "number": "1234567890",
+      "password": "poiuytrewq",
+      "id": 4
+    },
+    {
+      "username": "ganesh",
+      "email": "ganesh@gmail.com",
+      "gender": "Male",
+      "number": "1234567890",
+      "password": "poiuytrewq",
+      "id": 5
+    },
+    {
+      "username": "kiran",
+      "email": "kiran@gmail.com",
+      "gender": "Male",
+      "number": "1234567890",
+      "password": "poiuytrewq",
+      "id": 6
+    }
+  ]
+}
